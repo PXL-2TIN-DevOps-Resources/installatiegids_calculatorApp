@@ -53,13 +53,13 @@ Time:        0.31 s, estimated 1 s
 Ran all test suites.
 ```
 
-### Code versie les 1
+### Code versie les 1 (n.v.t. S2IT)
 Bij de versie van de eerste les zal één van de unittesten falen. Je dient hier de code in de file `routes.js` aan te passen zodat de `subtract` functie aftrekt in plaats van optelt.
 
 ## Uitvoeren van de applicatie
 Het opstarten van de applicatie kunnen we doen aan de hand van het script `npm start` dat gedefinieerd staat in de `package.json` file of door het uitvoeren van het commando `node server.js`
 
-### Code versie les 1
+### Code versie les 1 (n.v.t. S2IT)
 In deze versie staat in de output na het uitvoeren van de applicatie dat de app draait op poort `3000`. Dit is incorrect (hij draait standaard op poort `3300`). Je kan de juiste poort configureren in de file `server.js`.
 
 Na deze configuratie kan je naar het ip adres van je server surfen. Hier kan je de calculator applicatie gebruiken.
